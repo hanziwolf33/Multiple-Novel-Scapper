@@ -8,4 +8,4 @@ Hope there will be people who will find these scripts useful for whatever purpos
 
 Made by me to have offline novels on my phone's sd-card for times without internet.
 
-There are probably a million and one things that could have been differently or better, feel free to post/branch changes/suggestions/etc.
+There are probably a million and one things that could have been differently or better, feel free to post/branch/fork any changes/suggestions/etc.
